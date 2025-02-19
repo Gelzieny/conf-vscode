@@ -117,7 +117,8 @@
     "**\/.hg": true,
     "**\/.svn": true,
     "**\/.git": true,
-    ".vscode": true
+    ".vscode": true,
+    "**/__pycache__": true
     // "node_modules": true
   },
   "update.mode": "manual",
