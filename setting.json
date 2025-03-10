@@ -55,6 +55,7 @@
   "[prisma]": {
     "editor.formatOnSave": true
   },
+  "editor.stickyScroll.enabled": false,
   "cSpell.language": "en,pt",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.suggestSelection": "first",
